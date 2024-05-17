@@ -37,3 +37,5 @@ THEN I should have my static assets pre cached upon loading along with subsequen
 WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 ```
+
+![image](/client/src/images/image.png)
